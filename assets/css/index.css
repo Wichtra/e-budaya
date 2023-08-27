@@ -1,0 +1,7 @@
+.guina {
+  @apply;
+}
+
+.btn-border {
+  border-radius: 10px;
+}
